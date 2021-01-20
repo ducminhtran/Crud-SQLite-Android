@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Domestic">
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Hà Nội</item>
+    </string-array>
+    <string-array name="Foreign">
+        <item>Japan</item>
+        <item>Korean</item>
+        <item>USA</item>
+    </string-array>
+    <string-array name="Domestic_ZipCode">
+        <item>70000</item>
+        <item>50000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="Foreign_ZipCode">
+        <item>+2</item>
+        <item>+3</item>
+        <item>+1</item>
+    </string-array>
+</resources>
